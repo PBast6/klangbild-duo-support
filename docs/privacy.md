@@ -1,6 +1,6 @@
 # Datenschutzerklärung · Privacy Policy
 
-**Klangbild Duo** · Stand / Last updated: [DATUM / DATE]
+**Klangbild Duo** · Stand / Last updated: 19. Oktober 2026 / October 19, 2026
 
 [Deutsch](#deutsch) · [English](#english)
 
@@ -14,7 +14,7 @@ Klangbild Duo erfasst, speichert oder verkauft keine personenbezogenen Daten. Es
 ### Verantwortlicher
 Sebastian Häring
 Frankfurterstraße 32
-64521v Groß-Gerau, Deutschland
+64521 Groß-Gerau, Deutschland
 E-Mail: Sebastian.Haering.App@proton.me
 
 ### Mikrofon
@@ -59,10 +59,10 @@ Wenn sich die App ändert, passen wir diese Erklärung an. Das Datum oben zeigt 
 Klangbild Duo does not collect, store or sell personal data. There are no accounts, no advertising, no analytics or tracking services and no third-party SDKs. Everything the app calculates happens on your device.
 
 ### Controller
-[FIRST AND LAST NAME]
-[STREET AND NUMBER]
-[POSTCODE CITY], Germany
-Email: [EMAIL ADDRESS]
+Sebastian Häring
+Frankfurterstraße 32
+64521 Groß-Gerau, Germany
+Email: Sebastian.Haering.App@proton.me
 
 ### Microphone
 If you choose “Mikrofon” (microphone) as the source, the app listens to the sound so the visualizations can dance to the music. The sound is analysed in real time on your device only. It is **not recorded, not stored and not transmitted**. You allow or deny access in iOS Settings.
