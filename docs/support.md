@@ -8,7 +8,7 @@
 
 Hast du eine Frage, einen Fehler gefunden oder eine Idee für einen neuen Visualizer? Schreib uns:
 
-**E-Mail:** [E-MAIL-ADRESSE]
+**E-Mail:** Sebastian.Haering.App@proton.me
 
 Bitte nenne dein Gerät (zum Beispiel „iPhone Duo“), die iOS-Version und, wenn möglich, den Visualizer, bei dem es auftritt.
 
@@ -40,7 +40,7 @@ Im Menü „Quelle“ oben, ganz unten: „Anleitung“.
 
 Have a question, found a bug, or got an idea for a new visualizer? Write to us:
 
-**Email:** [EMAIL ADDRESS]
+**Email:** Sebastian.Haering.App@proton.me
 
 Please include your device (for example “iPhone Duo”), the iOS version and, if you can, the visualizer where it happens.
 
