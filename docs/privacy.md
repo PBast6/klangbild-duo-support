@@ -12,10 +12,10 @@
 Klangbild Duo erfasst, speichert oder verkauft keine personenbezogenen Daten. Es gibt keine Konten, keine Werbung, keine Analyse- oder Tracking-Dienste und keine Fremd-SDKs. Alles, was die App berechnet, geschieht auf deinem Gerät.
 
 ### Verantwortlicher
-[VOR- UND NACHNAME]
-[STRASSE UND HAUSNUMMER]
-[PLZ ORT], Deutschland
-E-Mail: [E-MAIL-ADRESSE]
+Sebastian Häring
+Frankfurterstraße 32
+64521v Groß-Gerau, Deutschland
+E-Mail: Sebastian.Haering.App@proton.me
 
 ### Mikrofon
 Wenn du als Quelle „Mikrofon“ wählst, hört die App den Ton mit, damit die Visualisierungen zur Musik tanzen. Der Ton wird nur in Echtzeit auf dem Gerät ausgewertet. Er wird **nicht aufgenommen, nicht gespeichert und nicht übertragen**. Den Zugriff erlaubst oder verbietest du in den iOS-Einstellungen.
